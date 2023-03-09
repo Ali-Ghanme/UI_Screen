@@ -16,7 +16,7 @@ Below are two screenshots of the project's UI design:
      src="images/WhatsApp Image 2023-03-09 at 16.47.45.jpg"
      alt="Alt text"
      title="Optional title"
-     style="max-width: 50px;">
+     style="max-width: 50px; margin-right">
 </div>
 
   
