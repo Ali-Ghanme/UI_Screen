@@ -1,16 +1,16 @@
 # Project Name
 
-This project is a responsive UI design that can be viewed on both desktop and mobile screens. The project has been developed using Flutter, and it is optimized for mobile viewing with a responsive design.
+This project is a responsive UI design that can be viewed on all mobile screens size. The project has been developed using Flutter, and it is optimized for mobile viewing with a responsive design.
 
 ## Screenshots
 
 Below are two screenshots of the project's UI design:
 
-![Screenshot of desktop view](desktop-screenshot.png)
-*Desktop View*
+![Screenshot of desktop view](images/WhatsApp Image 2023-03-09 at 16.47.45.jpg)
+*Splash View*
 
-![Screenshot of mobile view](mobile-screenshot.png)
-*Mobile View*
+![Screenshot of mobile view](images/WhatsApp Image 2023-03-09 at 16.47.46.jpg)
+*Home View*
 
 ## Features
 
