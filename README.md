@@ -1,16 +1,39 @@
-# ui_test
+# Project Name
 
-A new Flutter project.
+This project is a responsive UI design that can be viewed on both desktop and mobile screens. The project has been developed using Flutter, and it is optimized for mobile viewing with a responsive design.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+Below are two screenshots of the project's UI design:
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot of desktop view](desktop-screenshot.png)
+*Desktop View*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot of mobile view](mobile-screenshot.png)
+*Mobile View*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Responsive design that adapts to different screen sizes
+- Interactive UI elements
+- Easy navigation
+
+## How to Run the Project
+
+To run this project on your local machine, follow these steps:
+
+1. Clone the repository to your local machine using `git clone`.
+2. Open the project folder and run `flutter run` in the terminal.
+3. The project should open on an emulator or connected device.
+
+## Technologies Used
+
+- Flutter
+
+## Credits
+
+This project was developed by [Your Name]. Special thanks to [Name of resource/person who helped with the project].
+
+## License
+
+This project is licensed under the [Name of License] License.
