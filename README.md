@@ -18,6 +18,15 @@ Below are two screenshots of the project's UI design:
 - Interactive UI elements
 - Easy navigation
 
+## Libraries Used
+
+This project has used the following Flutter libraries:
+
+- **flutter_screenutil: ^5.5.3+2:** This library is used for scaling the UI components according to the device's screen size and resolution.
+- **flutter_lints: ^2.0.0:** This library is used for linting and static analysis of the project's code to maintain code quality.
+- **get: ^4.6.5:** This library is used for state management and navigation within the application.
+- **sizer: ^2.0.15:** This library is used for a responsive UI design by adapting the UI components according to the device's screen size.
+
 ## How to Run the Project
 
 To run this project on your local machine, follow these steps:
