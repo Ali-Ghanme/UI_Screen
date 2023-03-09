@@ -6,10 +6,19 @@ This project is a responsive UI design that can be viewed on all mobile screens 
 
 Below are two screenshots of the project's UI design:
 
-![Screenshot of desktop view](images/WhatsApp Image 2023-03-09 at 16.47.45.jpg)
 *Splash View*
+<img
+  src="images/WhatsApp Image 2023-03-09 at 16.47.45.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  
+  <img
+  src="images/WhatsApp Image 2023-03-09 at 16.47.46.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 
-![Screenshot of mobile view](images/WhatsApp Image 2023-03-09 at 16.47.46.jpg)
 *Home View*
 
 ## Features
