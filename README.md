@@ -50,8 +50,8 @@ To run this project on your local machine, follow these steps:
 
 ## Credits
 
-This project was developed by [Your Name]. Special thanks to [Name of resource/person who helped with the project].
+This project was developed by [Ali Ghanme].
 
 ## License
 
-This project is licensed under the [Name of License] License.
+This project is licensed under the [MIT] License.
